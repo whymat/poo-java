@@ -1,3 +1,5 @@
+package aula02;
+
 public class Caneta {
     String modelo; // foi declarado o tipo dos atributos
     String cor;
